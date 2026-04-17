@@ -1,0 +1,11 @@
+PROJECT DESCRIPTION:
+The Smart Personal Data Organizer is a Python-based application designed to help users efficiently manage their personal information in a structured way. It allows users to store important data such as contacts, notes, schedules, and daily tasks in a centralized system. The application provides features like adding new records, viewing existing data, searching for specific information, and deleting unwanted entries.
+
+This system aims to reduce confusion and improve productivity by organizing data in a simple and user-friendly manner. It uses file handling (such as JSON or CSV) to store data securely, ensuring easy access and retrieval. The project demonstrates the use of Python concepts like functions, modules, and data structures to build a practical and useful real-world application.
+
+Team Members:
+1. M.Vamsi - 2500030179 - Team Member
+2. A.Rishi - 2500030201 - Team Member
+3. R.Trivikram - 2500030229 - Team Leader
+4. V.V Pranav sai - 2500030235 - Team Member
+5. A.Srividya - 2500030236 - Team member
