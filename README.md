@@ -1,0 +1,2 @@
+# Python-Project-KL-University-1-2-Smart-personal-data-organizer-
+In today’s digital world, managing personal data efficiently is very important. People handle large amounts of information like contacts, notes, schedules, and tasks. Poor organization can lead to confusion and data loss. The Smart Personal Data Organizer is a Python-based application that helps users store, manage, search, and delete data easily.
